@@ -7,6 +7,9 @@ We release checkpoints fine-tuned on WebQA [here](https://tiger.lti.cs.cmu.edu/y
 
 ## News
 
+**Update (24 Apr, 2024)**:
+Just a heads-up that we're having issues with hosting large files on GoogleDrive so we will be moving x101fpn features to another server soon. Now you can still access those features via GoogleDrive. We'll update here as soon as the change actually happens.
+
 **Update (8 Apr, 2022)**:
 
 We are releasing all image features (stored in pickle files) pre-extracted by x101fpn! Given the sheer size (500GB) and the bandwidth limits of google drive, we have setup [this request form](https://forms.gle/5oR7PxXYJH1qF7ZT8) to grant access to individual users instead of making the files publicly accessible. Upon approval, you will get a link that expires in **90 days**. To request for extension, please submit the form again or contact the authors. Thanks!
